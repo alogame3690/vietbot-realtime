@@ -1,14 +1,14 @@
 # VIETBOT STATUS
-**Updated**: Sat Jul 12 11:32:45 PM +07 2025
+**Updated**: Sat Jul 12 11:33:17 PM +07 2025
 
 ## System Info
 - IP: 103.77.172.150
 - Uptime: up 1 week, 3 hours, 20 minutes
-- Files: 35877
+- Files: 35892
 
 ## Last Activity
-Host key verification failed.
-rsync: connection unexpectedly closed (0 bytes received so far) [Receiver]
-rsync error: error in rsync protocol data stream (code 12) at io.c(228) [Receiver=3.2.3]
-Host key verification failed.
-Host key verification failed.
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@vinh3690.(none)')
